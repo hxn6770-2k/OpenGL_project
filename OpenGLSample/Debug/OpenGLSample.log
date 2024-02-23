@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3-5 Milestone.vcxproj, Module 4.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  shader.cpp
+  Module 5.cpp
+  Generating Code...
+C:\Users\Vy Nguyen\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 5\Module 5\OpenGLSample\Module 5.cpp(6,10): error C1083: Cannot open include file: 'stb_image.h': No such file or directory
