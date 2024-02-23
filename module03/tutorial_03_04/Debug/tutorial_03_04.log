@@ -1,0 +1,16 @@
+﻿  Final Project.cpp
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(373,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(520,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(521,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(525,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(526,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(528,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(529,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(539,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(891,39): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(957,42): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(1152,39): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\module03\Final Project.cpp(1231,39): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  tutorial_03_04.vcxproj -> C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\Debug\Final Project.exe
+  C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 7\Final Project\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
